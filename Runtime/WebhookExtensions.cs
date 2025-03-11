@@ -54,5 +54,16 @@ namespace Lumpn.Discord
                 Debug.AssertFormat(request.responseCode < 300, "{0}: {1}", request.error, request.downloadHandler.text);
             }
         }
+
+        public static IEnumerator Send(this Webhook webhook, Embed embed, FileData[] files)
+        {
+            var message = new Message
+            {
+                username = webhook.name,
+                embeds = new[] { embed },
+                files = files,
+            };
+            return Send(webhook, message);
+        }
     }
 }
