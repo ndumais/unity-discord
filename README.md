@@ -2,6 +2,10 @@
 Send messages to your [Discord](https://discord.com) channel via [webhooks](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
 
 ## Installation
+You can install directly using the Unity Package Manager with the following URL:
+
+https://github.com/ndumais/unity-discord.git
+
 Download the entire repository from [https://github.com/ndumais/unity-discord](https://github.com/ndumais/unity-discord) and use Unity's built in package manager to [Add package from disk](https://docs.unity3d.com/Manual/upm-ui-local.html).
 
 ## Usage
