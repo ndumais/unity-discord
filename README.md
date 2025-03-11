@@ -1,6 +1,9 @@
 # unity-discord
 Send messages to your [Discord](https://discord.com) channel via [webhooks](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
 
+## Warning
+Currently, the example scene is probably broken, at least some of them.
+
 ## Installation
 You can install directly using the Unity Package Manager with the following URL:
 ```
