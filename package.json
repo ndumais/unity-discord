@@ -13,16 +13,10 @@
     "discord",
     "webhook"
   ],
-  "author": [
-    {
-      "name": "Jonas Boetel",
-      "url": "https://github.com/lumpn"
-    },
-    {
-      "name": "ndumais",
-      "url": "https://github.com/ndumais"
-    },
-  ],
+  "author": {
+    "name": "ndumais",
+    "url": "https://github.com/ndumais"
+  },
   "samples": [
     {
       "displayName": "Feedback Form Samples",
