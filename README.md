@@ -5,7 +5,7 @@ Send messages to your [Discord](https://discord.com) channel via [webhooks](http
 Currently, the example scene is probably broken, at least some of them.
 
 ## Installation
-You can install directly using the Unity Package Manager with the following URL:
+You can install directly using the **Unity Package Manager** with the following URL:
 ```
 https://github.com/ndumais/unity-discord.git
 ```
